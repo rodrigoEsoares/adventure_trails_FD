@@ -9,7 +9,7 @@ function Lista() {
 
   useEffect(() => {
     const searchTrails = async () => {
-      const response = await fetch("/json_trilhas/dados.json");
+      const response = await fetch("/dados.json");
       const data = await response.json();
       setTrails(data);
      console.log(data)
