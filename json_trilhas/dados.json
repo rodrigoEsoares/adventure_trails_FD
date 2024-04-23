@@ -1,0 +1,55 @@
+
+ [
+    {
+      "id": 1,
+      "nomeTrilha": "Trilha da Costa da Lagoa",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "duracao": 120,
+      "trajeto": 4,
+      "dificuldade": "iniciante",
+      "tipo": "caminhada / trekking",
+      "nomeUsuario": "Rodrigo Eduardo",
+      "urlImagem": "https://images.pexels.com/photos/5036668/pexels-photo-5036668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+      "id": 2,
+      "nomeTrilha": "Trilha do Morro das Aranhas",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "duracao": 120,
+      "trajeto": 4,
+      "dificuldade": "iniciante",
+      "tipo": "caminhada / trekking",
+      "nomeUsuario": "Guilherme André",
+      "urlImagem": "https://images.pexels.com/photos/5036668/pexels-photo-5036668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+      "id": 3,
+      "nomeTrilha": "Trilha Caminho da Gurita",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "duracao": 120,
+      "trajeto": 4,
+      "dificuldade": "iniciante",
+      "tipo": "caminhada / trekking",
+      "nomeUsuario": "Vinícius Pereira",
+      "urlImagem": "https://images.pexels.com/photos/5036668/pexels-photo-5036668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "nomeTrilha": "Trilha da Pedra do Urubu",
+      "cidade": "Palhoça",
+      "estado": "SC",
+      "duracao": 30,
+      "trajeto": 2,
+      "dificuldade": "iniciante",
+      "tipo": "caminhada / trekking",
+      "nomeUsuario": "Carlos Guimarães",
+      "urlImagem": "https://trilhandomontanhas.com/arquivos/2018-04/trilha-pedra-do-urubu-praia-guarda-do-embau-media.jpg"
+    }
+    
+  ]
+

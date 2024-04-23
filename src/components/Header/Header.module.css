@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap");
+.header {
+  display: flex;
+  background-color: #504908;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 1em;
+  height: 50px;
+  font-family: "Comfortaa", sans-serif;
+}
+
+.links {
+  display: flex;
+ 
+}
+
+.link {
+  color: #ffffff;
+  padding: 1em;
+}
+ 
+ 
+
+.logo{
+    color: #ffffff;
+    font-size: 1.5em;
+}
+ 
+
+@media (max-width: 768px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+}
+
+@media (max-width: 426px) {
+  .header,
+  .links {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .links {
+    margin-top: 20px;
+  }
+}
